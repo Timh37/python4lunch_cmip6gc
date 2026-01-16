@@ -9,6 +9,6 @@ From command window, first clone the repository:
 
 then create an environment with the required python packages:
 
-```conda create --name gc_env --file path_to_repositoyry/gc_env.txt ```
+```conda create --name gc_env --file path_to_repository/gc_env.txt ```
 
 then launch the Jupyter notebook.
